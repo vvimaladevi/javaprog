@@ -23,11 +23,11 @@ public class HelloWorld {
 		
 		if(GrantTotal == RNumb)
 		{
-			System.out.println("Ramanujan Number");
+			System.out.println("This number is a Ramanujan Number");
 		}
 		else
 		{
-			System.out.println("Not Ramanujan Number");
+			System.out.println("This number is Not Ramanujan Number");
 		}
 		
 	    

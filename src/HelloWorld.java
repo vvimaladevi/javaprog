@@ -27,7 +27,7 @@ public class HelloWorld {
 		}
 		else
 		{
-			System.out.println("This number is Not Ramanujan Number");
+			System.out.println("This number is Not Ramanujan Number number");
 		}
 		
 	    
